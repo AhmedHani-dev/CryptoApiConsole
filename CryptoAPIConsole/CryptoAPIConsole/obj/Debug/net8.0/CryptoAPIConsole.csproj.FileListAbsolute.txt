@@ -1,0 +1,14 @@
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\bin\Debug\net8.0\CryptoAPIConsole.exe
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\bin\Debug\net8.0\CryptoAPIConsole.deps.json
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\bin\Debug\net8.0\CryptoAPIConsole.runtimeconfig.json
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\bin\Debug\net8.0\CryptoAPIConsole.dll
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\bin\Debug\net8.0\CryptoAPIConsole.pdb
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\CryptoAPIConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\CryptoAPIConsole.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\CryptoAPIConsole.AssemblyInfo.cs
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\CryptoAPIConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\CryptoAPIConsole.dll
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\refint\CryptoAPIConsole.dll
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\CryptoAPIConsole.pdb
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\CryptoAPIConsole.genruntimeconfig.cache
+C:\Users\Ahmed.Hani\source\repos\CryptoAPIConsole\CryptoAPIConsole\obj\Debug\net8.0\ref\CryptoAPIConsole.dll
